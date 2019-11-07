@@ -1,0 +1,29 @@
+ *{
+    background-color: aliceblue;
+}
+.Game{
+    text-align: center;
+    text-indent: 50px;
+    margin-top: 200px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 100px;
+    color: blueviolet;
+    
+}
+
+.player_1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 50px;
+   
+}
+
+.player_2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+   
+}
