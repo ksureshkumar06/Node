@@ -1,29 +1,47 @@
- *{
-    background-color: aliceblue;
-}
-.Game{
-    text-align: center;
-    text-indent: 50px;
-    margin-top: 200px;
-    margin-bottom: 25px;
-    margin-left: 25px;
-    margin-right: 100px;
-    color: blueviolet;
+*{
+    background-color : aliceblue;
     
 }
 
-.player_1{
+.wrapper_clearfix{
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.player_1_panel{
+    background-color: #cfc ;
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: 20px;
-    margin-right: 50px;
+    margin-left: 25px;
+    margin-right: 500px;
+    
+    
+}
+
+.player_2_panel{
+    background-color: blue;
+    margin-top: -110px;
+    margin-bottom: 50px;
+    margin-left: 350px;
+    margin-right: 10px;
+    
    
 }
 
-.player_2{
+.score_1{
     margin-top: 50px;
-    margin-bottom: 50px;
-    margin-left: 50px;
-    margin-right: 50px;
-   
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 100px;
+
+}
+
+.score_2{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 100px;
+    
 }

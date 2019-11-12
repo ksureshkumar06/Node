@@ -1,0 +1,22 @@
+.whole{
+    height: 100%;
+    
+}
+
+.first.child{
+    height: 25px;
+    width: 35px;
+    margin: 500px;
+    position: relative
+
+}
+
+.second.child{
+    height: 25px;
+    width: 35px;
+    margin-top: 500px;
+    margin-right: 700px;
+    margin-bottom: 500px;
+    margin-left: 500px;
+    position: relative
+}
