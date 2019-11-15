@@ -1,22 +1,6 @@
-.whole{
-    height: 100%;
-    
-}
-
-.first.child{
-    height: 25px;
-    width: 35px;
-    margin: 500px;
-    position: relative
-
-}
-
-.second.child{
-    height: 25px;
-    width: 35px;
-    margin-top: 500px;
-    margin-right: 700px;
-    margin-bottom: 500px;
-    margin-left: 500px;
-    position: relative
-}
+table, th, td {
+    border: 1px solid red;
+    margin: 50px;
+    position: relative;
+    align-self: baseline;
+  }
